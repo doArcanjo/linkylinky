@@ -16,5 +16,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
-  status = 404
+  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  status = 302
