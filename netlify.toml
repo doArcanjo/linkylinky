@@ -5,16 +5,16 @@
   NODE_ENV = "8.9.0"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 404
-
- [[redirects]]
   from = "/inscricao"
   to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
   status = 302
   
-   [[redirects]]
+[[redirects]]
   from = "/inscrever"
   to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
   status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404
