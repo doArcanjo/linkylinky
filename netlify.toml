@@ -18,3 +18,8 @@
   from = "/*"
   to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
   status = 302
+  
+[[redirects]]
+  from = "/"
+  to = "https://goo.gl/forms/n0fXMgp38A4lBerg1"
+  status = 302  
